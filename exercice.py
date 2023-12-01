@@ -1,5 +1,5 @@
 from ortools.sat.python import cp_model
-import time
+#import time
 
 def generer_emploi_du_temps(enseignants, salles, cours_liste, horaires, jours):
     # Créer le modèl
